@@ -1,5 +1,5 @@
 # rokomari_price_analysis
-This was a job hiring assignment given my rokomari.com. The data was small, obviously a generated one for test purpose. I tried to Describe myself while diving deep as much as possible.
+This was a job hiring assignment given my rokomari.com. The data was small, obviously a generated one for test purpose. I tried to describe myself while diving deep as much as possible.
 
 
 This includes:
